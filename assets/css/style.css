@@ -89,3 +89,31 @@ body {
         padding-left: 30px;
     }
 }
+
+/* ------------------ PAGE TOUR ------------------ */
+.tourDate-content-title {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.table-tourDate-content thead tr th {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.table-tourDate-content tbody td {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.table-tourDate-content tbody td, .table-tourDate-content tbody td a {
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+}
+
+.table-tourDate-content tbody td span {
+    font-size: 18px;
+    margin-right: 5px;
+    font-weight: 700;
+}
