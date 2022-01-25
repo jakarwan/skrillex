@@ -29,6 +29,13 @@ body {
     margin-bottom: 8px;
 }
 
+.new-release-content .new-merch-title {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    padding-left: 115px;
+}
+
 .footer-main-content {
     padding: 2rem 0.75rem;
 }
@@ -74,5 +81,11 @@ body {
 @media only screen and (min-width: 992px) {
     .header-navbar nav.navbar {
         display: block;
+    }
+}
+
+@media only screen and (min-width: 767px) {
+    .merch {
+        padding-left: 30px;
     }
 }
